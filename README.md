@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a 3rd Year Student.
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Data Structure.
-- - 📫 How to reach me: Linkedin: (https://www.linkedin.com/in/gaurav-joshi-6308351b2/)
+- - 📫 How to reach me: Linkedin: [@gaurav-joshi](https://www.linkedin.com/in/gaurav-joshi-6308351b2/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
