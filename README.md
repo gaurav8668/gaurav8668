@@ -1,6 +1,6 @@
 ### Hi, I'm Gaurav Joshi! 👋
 
-- 🔭Software Engineer At Lumiq
+- Software Engineer
 - Microsoft Azrure Certified
 
 
