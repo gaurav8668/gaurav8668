@@ -1,9 +1,7 @@
 ### Hi, I'm Gaurav Joshi! 👋
 
-- 🔭 I’m currently a 4th Year Student.
-- 🌱 I’m currently learning and doing projects in Machine Learning, Deep Learning and Data Structure.
-- - 📫 How to reach me: Linkedin: [@gaurav-joshi](https://www.linkedin.com/in/gaurav-joshi-6308351b2/)
-- - 💬 Ask me about Machine Learning, Deep Learning, Data Structure.
+- 🔭Software Engineer At Lumiq
+- Microsoft Azrure Certified
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gaurav8668&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
